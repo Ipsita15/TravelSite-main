@@ -1,6 +1,6 @@
-<p  align="right"><img src="https://github.com/Ipsita15/TravelSite-main" alt="Visitor badge"/>
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=TravelSite" alt="Visitor badge"/>
 
-# Travel Website - Frontend
+# Travel Website - Front-End Development
 # Hie, I'm Ipsita! 👋
 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ipsita-das724/) for any Doubt Clearence
 ## Highlights
