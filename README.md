@@ -4,7 +4,7 @@
 # Hie, I'm Ipsita! 👋
 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ipsita-das724/) for any Doubt Clearence
 ## Highlights
-This Project is all about frontend website development
+This Project is all about multi-page responsive frontend website development
     
 ## Run Locally
 
@@ -52,7 +52,7 @@ HTML, CSS & JavaScript only...
 ### Contact View
 
 
-![Contact Screenshot](https://github.com/Ipsita15/TravelSite-main/blob/master/images/Contact%20.png?raw=true)
+![Contact Screenshot](https://github.com/Ipsita15/TravelSite-main/blob/master/images/Contact%20.png)
 -
 ## Feedback
 
