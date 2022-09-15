@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Atomic+Age&family=Charm:wght@700&family=Ewert&family=Grenze+Gotisch:wght@500&family=Jacques+Francois+Shadow&family=Oleo+Script+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: rgba(23, 23, 24, 0.651);
+}
+
+.slideshow {
+   border: 7px solid rgb(6, 17, 75);
+   border-radius: 27px;
+   overflow: hidden;
+}
+
+.middle {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.nav {
+   position: absolute;
+   bottom: 20px;
+   left: 50%;
+   transform: translateX(-50%);
+   display: flex;
+}
+
+.navbar {
+   border: 2px solid #fff;
+   border-radius: 20px;
+   width: 220px;
+   height: 12px;
+   margin: 6px;
+   cursor: pointer;
+   transition: 0.4s;
+}
+
+.navbar:hover {
+   background: rgb(139, 137, 137);
+}
+
+.navbar:active {
+   background: #fff;
+}
+
+input[name="row"] {
+   position: absolute;
+   visibility: hidden;
+}
+
+.slides {
+   width: 500%;
+   height: 100%;
+   display: flex;
+}
+
+.slide {
+   position: relative;
+   width: 20%;
+}
+
+.slide img {
+   filter: brightness(60%);
+   width: 100%;
+   height: 100%;
+}
+
+.slide h1 {
+   position: absolute;
+   top: 15%;
+   left: 37%;
+   color: #f0f0ce;
+   color: rgb(221, 236, 8);
+   font-family: 'Jacques Francois Shadow', cursive;
+   font-family: 'Charm', cursive;
+   font-size: 1.5rem;
+   font-stretch: expanded;
+   letter-spacing: 7px;
+   text-shadow: 0 0 5px rgb(117, 117, 117), 0 0 10px rgb(107, 107, 107), 0 0 15px #c9d199, 0 0 20px #abbb86, 0 0 25px #b3be92, 0 0 30px #cacac8, 0 0 35px #c8c9bf;
+}
+
+.s2 h1 {
+   left: 32%;
+   color: rgb(221, 236, 8);
+}
+
+.slide p {
+   position: absolute;
+   top: 50%;
+   left: 20%;
+   color: rgb(242, 243, 250);
+   margin: 10px 10px;
+   font-size: 1.1rem;
+   font-family: 'Charm', cursive;
+   text-shadow: 0 0 5px rgb(117, 117, 117), 0 0 10px rgb(107, 107, 107), 0 0 15px #c9d199, 0 0 20px #abbb86, 0 0 25px #b3be92, 0 0 30px #cacac8, 0 0 35px #c8c9bf;
+}
+
+.s2 p {
+   left: 17%;
+   color: #fff;
+}
+
+.slide .btn {
+   position: absolute;
+   text-align: center;
+   top: 74%;
+   left: 40%;
+   height: 40px;
+   width: 15%;
+   color: #f0f0f0;
+   background: rgb(170, 81, 86);
+   border: 4px solid rgb(40, 46, 40);
+   font-size: 1.1rem;
+   border-radius: 50%;
+   transition: 0.5s;
+}
+
+.slide .btn:hover {
+   background-color: rgb(179, 159, 159);
+}
+
+input[type=submit] {
+   font-family: 'Roboto Slab', serif;
+   font-size: 1.5rem;
+   cursor: pointer;
+}
+
+input[type=submit]:hover {
+   color: rgb(39, 8, 216);
+   font-weight: 600;
+}
+
+#r1:checked~.s1 {
+   margin-left: 0;
+}
+
+#r2:checked~.s2 {
+   margin-left: -20%;
+}
+
