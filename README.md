@@ -1,10 +1,9 @@
-<p  align="right"><img src="https://github.com/Ipsita15/TravelSite" alt="Visitor badge"/>
+<p  align="right"><img src="https://github.com/Ipsita15/TravelSite-main" alt="Visitor badge"/>
 
 # Travel Website - Frontend
-# Hi, I'm Ipsita! 👋
-## 🔗 Links
+# Hie, I'm Ipsita! 👋
 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ipsita-das724/) for any Doubt Clearence
-
+## Highlights
 This Project is all about frontend website development
     
 ## Run Locally
@@ -15,7 +14,7 @@ This Project is all about frontend website development
 
     You can clone it to your Github Account by executing the code below in your system terminal. (Ignore this step, If you have already downloaded)
 ```bash
-https://github.com/Ipsita15/TravelSite.git
+https://github.com/Ipsita15/TravelSite-main.git
 ```
 
 💬 Ask me, If your project is not running - 
@@ -53,7 +52,7 @@ HTML, CSS & JavaScript only...
 ### Contact View
 
 
-![Contact Screenshot](https://github.com/AyeRaj/hungry/blob/main/img/Screenshot%20(27).png?raw=true)
+![Contact Screenshot](https://github.com/Ipsita15/TravelSite-main/blob/master/images/Contact%20.png?raw=true)
 -
 ## Feedback
 
