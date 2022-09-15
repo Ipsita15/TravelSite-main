@@ -1,4 +1,4 @@
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=TravelSite" alt="Visitor badge"/>
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=TravelSite-main" alt="Visitor badge"/>
 
 # Travel Website - Front-End Development
 # Hie, I'm Ipsita! 👋
