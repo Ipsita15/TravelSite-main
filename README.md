@@ -36,17 +36,17 @@ HTML, CSS & JavaScript only...
 
 ### First View
 
-![Home Screenshot](https://github.com/AyeRaj/hungry/blob/main/img/Screenshot%20(24).png?raw=true)
+![Home Screenshot]()
 -
 
 ### Mid View
 
-![Login Screenshot](https://github.com/AyeRaj/hungry/blob/main/img/Screenshot%20(25).png?raw=true)
+![Login Screenshot]()
 -
 
  ### Review View
 
-![Review Screenshot](https://github.com/AyeRaj/hungry/blob/main/img/Screenshot%20(25).png?raw=true)
+![Review Screenshot]()
 -
   
 ### Contact View
