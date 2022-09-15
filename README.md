@@ -61,6 +61,6 @@ HTML, CSS & JavaScript only...
 -  
 ![Gallery Screenshot](./images/Gallery2.png)
 -  
-## Feedback
+## Feedback 😀
 
 If you have any feedback, please reach out to us at ipsitad15@gmail.com
