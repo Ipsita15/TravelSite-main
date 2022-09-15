@@ -34,22 +34,22 @@ HTML, CSS & JavaScript only...
 
 ## Screenshots ||  Multi-Page
 
-### First View
+### First Page
 
-![Home Screenshot]()
+![Home Screenshot](./images/Contact.png)
 -
 
-### Mid View
+### Mid Page
 
 ![Login Screenshot]()
 -
 
- ### Review View
+ ### Review Page
 
 ![Review Screenshot]()
 -
   
-### Contact View
+### Contact Page
 
 
 ![Contact Screenshot](https://github.com/Ipsita15/TravelSite-main/blob/master/images/Contact%20.png)
