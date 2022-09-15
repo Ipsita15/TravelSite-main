@@ -36,24 +36,31 @@ HTML, CSS & JavaScript only...
 
 ### First Page
 
-![Home Screenshot](./images/Contact.png)
+![Home Screenshot](./images/Home.png)
 -
 
 ### Mid Page
 
-![Login Screenshot]()
+![Login Screenshot](./images/login1.png)
 -
-
+![Login Screenshot](./images/login2.png)
+-
  ### Review Page
 
-![Review Screenshot]()
+![Review Screenshot](./images/Review1.png)
 -
-  
+![Review Screenshot](./images/Review2.png)
+-
 ### Contact Page
 
-
-![Contact Screenshot](https://github.com/Ipsita15/TravelSite-main/blob/master/images/Contact%20.png)
+![Contact Screenshot](./images/Contact.png)
 -
+### Gallery Page
+
+![Gallery Screenshot](./images/Gallery1.png)
+-  
+![Gallery Screenshot](./images/Gallery2.png)
+-  
 ## Feedback
 
 If you have any feedback, please reach out to us at ipsitad15@gmail.com
