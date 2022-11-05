@@ -63,4 +63,4 @@ HTML, CSS & JavaScript only...
 -  
 ## Feedback 😀
 
-If you have any feedback, please reach out to us at ipsitad15@gmail.com
+If you have any feedback, please reach out to me at ipsitad15@gmail.com
